@@ -1,0 +1,10 @@
+com\elasticsearch\demo\service\NearbyService.class
+com\elasticsearch\demo\ElasticsearchApplication.class
+com\elasticsearch\demo\config\SearchConfig.class
+com\elasticsearch\demo\config\MyPointConfig.class
+com\elasticsearch\demo\config\EsConfig.class
+com\elasticsearch\demo\service\BookService.class
+com\elasticsearch\demo\model\People.class
+com\elasticsearch\demo\controller\SearchController.class
+com\elasticsearch\demo\model\SearchResult.class
+com\elasticsearch\demo\util\RandomUtil.class
